@@ -6,7 +6,7 @@
 
 ![image](https://github.com/MX-Linux/mx-packageinstaller/assets/418436/315e76dd-a6ff-43c7-af3c-ff02a8c83271)
 
-# mx-packageinstaller
+# mx-packageinstaller-qt5
 
 This is a fork of the original [MX Package Installer](https://github.com/AdrianTM/mx-packageinstaller) adapted to work with Qt5 instead of Qt6, for compatibility with older systems.
 
